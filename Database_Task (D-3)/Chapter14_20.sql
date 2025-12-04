@@ -40,5 +40,3 @@ SELECT position, AVG(salary) AS average_salary FROM employees GROUP BY position;
 
 -- employees 테이블 삭제
 DROP TABLE employees;
-
-
